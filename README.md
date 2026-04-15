@@ -2,10 +2,10 @@
 
 Answer: The main difference among them is:
 
-i.getElementById returns one element by unique id
-ii. getElementsByClassName returns HTMLCollection (multiple elements)
-iii. querySelector returns only the first matching element
-iv. querySelectorAll returns all matching elements
+i.getElementById returns one element by unique id\
+ii. getElementsByClassName returns HTMLCollection (multiple elements)\
+iii. querySelector returns only the first matching element\
+iv. querySelectorAll returns all matching elements\
 
 
 2. How do you create and insert a new element into the DOM?
