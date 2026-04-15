@@ -48,5 +48,5 @@ Answer:
 
 The main difference is :
 
-i. preventDefault() : It stops the browser's default behaviour like: form submission.
+i. preventDefault() : It stops the browser's default behaviour like: form submission.\
 ii. stopPropagation(): It stops the event from bubbling up to parent.
